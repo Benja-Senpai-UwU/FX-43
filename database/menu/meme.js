@@ -5,13 +5,13 @@ const meme = (prefix, botName, ownerName) => {
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerName}
-◪ *ABOUT*
+◪ *SOBRE*
   │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  ├─ ❏ ${prefix}info (Info Del Bot)
+  ├─ ❏ ${prefix}blocklist (Lista De Usuarios Bloqueados)
+  ├─ ❏ ${prefix}chatlist (Lista De Chat)
+  ├─ ❏ ${prefix}ping (Velocidad Del Bot)
+  └─ ❏ ${prefix}bugreport (Reportar Bug)
 ◪ *MEME*
   │
   ├─ ❏ ${prefix}meme
