@@ -4,27 +4,27 @@ const menuadmin = (prefix, pushname) => {
  
  ◪ *COMANDOS DE ADMIN*
  │
- ├─ ❏ ${prefix}opengc
- ├─ ❏ ${prefix}closegc
- ├─ ❏ ${prefix}promote
- ├─ ❏ ${prefix}demote
- ├─ ❏ ${prefix}tagall
- ├─ ❏ ${prefix}tagall2
- ├─ ❏ ${prefix}tagall3
- ├─ ❏ ${prefix}tagall4
- ├─ ❏ ${prefix}tagall5
- ├─ ❏ ${prefix}add
- ├─ ❏ ${prefix}kick
- ├─ ❏ ${prefix}listadmins
- ├─ ❏ ${prefix}linkgroup
- ├─ ❏ ${prefix}leave
- ├─ ❏ ${prefix}welcome
- ├─ ❏ ${prefix}nsfw
- ├─ ❏ ${prefix}leveling
- ├─ ❏ ${prefix}level
- ├─ ❏ ${prefix}delete
- ├─ ❏ ${prefix}simih
- └─ ❏ ${prefix}ownergroup
+ ├─ ❏ ${prefix}opengc (Abrir Grupo)
+ ├─ ❏ ${prefix}closegc (Cerrar Grupo)
+ ├─ ❏ ${prefix}promote (Dar Adm)
+ ├─ ❏ ${prefix}demote (Quitar Adm)
+ ├─ ❏ ${prefix}tagall (Mencionar A Todos)
+ ├─ ❏ ${prefix}tagall2 (Mencionar A Todos)
+ ├─ ❏ ${prefix}tagall3 (Mencionar A Todos)
+ ├─ ❏ ${prefix}tagall4 (Mencionar A Todos)
+ ├─ ❏ ${prefix}tagall5(Mencionar A Todos)
+ ├─ ❏ ${prefix}add (Añadir Miembro)
+ ├─ ❏ ${prefix}kick (Banear Miembro)
+ ├─ ❏ ${prefix}listadmins (Ver Admins Del Grupo)
+ ├─ ❏ ${prefix}linkgroup (Ver Link Del Grupo)
+ ├─ ❏ ${prefix}leave (Quitar Bot Del Grupo)
+ ├─ ❏ ${prefix}welcome (Activar Bienvenida)
+ ├─ ❏ ${prefix}nsfw (Nsfw) 
+ ├─ ❏ ${prefix}leveling (Activar Nivel?
+ ├─ ❏ ${prefix}level (Ver Tu Nivel)
+ ├─ ❏ ${prefix}delete (Borrar Un Mensaje Del Bot)
+ ├─ ❏ ${prefix}simih (Activar Modo Inteligencia Artificial)
+ └─ ❏ ${prefix}ownergroup (Ver Dueño Del Grupo)
  `
 
 

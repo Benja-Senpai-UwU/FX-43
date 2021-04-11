@@ -1,94 +1,86 @@
 const help = (prefix) => {
 	return `
-「 *Shan Bot* 」
+「 *Felixcrack BOT V42* 」
+
+
+ ⌛ Estado Del Bot: Online
+
 
 ◪ *Información*
   ❏ Comando: 「  ${prefix}  」
-  ❏ Creador: Shanduy
-  ❏ Como instalar el bot: https://youtu.be/rfxuYsWGmQo
-  ❏ Instagram: https://www.instagram.com/thepavos?r=nametag
-
+  ❏ Creador: Felixcrack 409
+  ❏ REGLAS
+  ❏ No Spam Al Bot ❌
+  ❏ No Agregarlo A Grupos Sin Permiso ❌
+  ❏ No Privado Al Bot ❌
 ◪ *Para usar al bot*
   ❏ Registrate con el comando ${prefix}daftar Nombre
 
 ◪ *SOBRE*
   │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  ├─ ❏ ${prefix}info (Info Del Bot)
+  ├─ ❏ ${prefix}blocklist (Lista De Usuarios Bloqueados)
+  ├─ ❏ ${prefix}chatlist (Lista De Chat)
+  ├─ ❏ ${prefix}ping (Velocidad Del Bot)
+  └─ ❏ ${prefix}bugreport (Reportar Bug)
 
 ◪ *CREAR*
   │
-  ├─ ❏ ${prefix}sticker
-  ├─ ❏ ${prefix}stickergif
-  ├─ ❏ ${prefix}toimg
-  ├─ De sticker a JPG
-  ├─ ❏ ${prefix}tomp3
-  └─ De video a MP3
+  ├─ ❏ ${prefix}sticker (Hacer Stiker)
+  ├─ ❏ ${prefix}stickergif (Hacer Stiker Gif)
+  ├─ ❏ ${prefix}toimg (Sticker A JPG)
+  └─ ❏ ${prefix}tomp3 (Video A MP3)
 
 ◪ *DESCARGAS*
   │
-  ├─ ❏ ${prefix}ytmp4
-  └─ Mas link del video de YT
+  └─ ❏ ${prefix}ytmp4 (Descargar Video De YouTube)
 
 ◪ *AUDIO*
   │
-  ├─ ❏ ${prefix}play
-  ├─ Mas nombre y artista
-  ├─ ❏ ${prefix}bahasa
-  └─ ❏ ${prefix}tts es
+  ├─ ❏ ${prefix}play (Descargar Musica Nombre Y Artista)
+  ├─ ❏ ${prefix}bahasa (Bahasa)
+  └─ ❏ ${prefix}tts (Texto A Voz)
 
 ◪ *DUEÑO DEL BOT*
   │
-  ├─ ❏ ${prefix}setprefix
-  ├─ ❏ ${prefix}block
-  ├─ ❏ ${prefix}bc
-  ├─ ❏ ${prefix}bcgc
-  └─ ❏ ${prefix}clearall
+  ├─ ❏ ${prefix}setprefix (Cambiar Prefijo)
+  ├─ ❏ ${prefix}block (Bloquear Usuário)
+  ├─ ❏ ${prefix}bc (Difusión A Todos Los Chats)
+  ├─ ❏ ${prefix}bcgc (Difusión A Todos Los Grupos)
+  └─ ❏ ${prefix}clearall (Borrar Todos)
 
 ◪ *OTROS*
   │
-  ├─ ❏ ${prefix}wame
-  ├─ Link de Whatsapp
-  ├─ ❏ ${prefix}virtex (Hernqn)
-  ├─ ❏ ${prefix}exe
-  └─ ❏ ${prefix}qrcode
+  ├─ ❏ ${prefix}wame (Link De Whatsapp)
+  ├─ ❏ ${prefix}virtex (Traba)
+  ├─ ❏ ${prefix}exe (. exe)
+  └─ ❏ ${prefix}qrcode (Crear QR)
   
 ◪ *GRUPOS*
   │
-  ├─ ❏ ${prefix}ownergrup
-  ├─ Dueño del grupo
-  ├─ ❏ ${prefix}closecg
-  ├─ Cerrar el grupo solo admins
-  ├─ ❏ ${prefix}opencg
-  ├─ Abrir grupo solo admins
-  ├─ ❏ ${prefix}kick
-  ├─ Eliminar a un miembro 
-  ├─ ❏ ${prefix}promote
-  ├─ Dar admin a un miembro
-  ├─ ❏ ${prefix}demote
-  ├─ Quitar el admin
-  ├─ ❏ ${prefix}linkgc
-  ├─ Link del grupo
-  ├─ ❏ ${prefix}tagall
-  └─ Nombra a todos los del grupo
+  ├─ ❏ ${prefix}ownergrup (Dueño Del Grupo)
+  ├─ ❏ ${prefix}closecg (Cerrar El Grupo Solo Admins)
+  ├─ ❏ ${prefix}opencg (Abrir Grupo Para Todos)
+  ├─ ❏ ${prefix}kick (Eliminar A Un Miembro)
+  ├─ ❏ ${prefix}promote (Dar Adm)
+  ├─ ❏ ${prefix}demote (Quitar Adm)
+  ├─ ❏ ${prefix}linkgc (Ver Link Del Grupo)
+  └─ ❏ ${prefix}tagall (Mencióna A Todos)
 
 Para usar estas funciones el bot necesita admin
   
 ◪ *NSWF*
   │
-  └─ ❏ ${prefix}nsfwmenu
+  └─ ❏ ${prefix}nsfwmenu (Menu De Nsfw)
 
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
-No te olvides de seguirme en instagram flaco :)
+No te olvides de seguirme en YouTube :)
 
-by Shanduy
+Gracias A Felixcrack
 
-Ultima version mas actual del bot 
-https://github.com/shanduy/ShanBot
+Suscríbete A Este Canal:
+https://youtube.com/channel/UCqCaZ_SEhSykF3-PR5os7YA
 `
 }
 
