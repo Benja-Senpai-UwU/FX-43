@@ -34,9 +34,9 @@ pkg install nodejs
 
 pkg install npm
 
-git clone https://github.com/shanduy/ShanBot
+git clone https://github.com/Fxmods/FX-43
 
-cd ShanBot
+cd FX-43
 
 bash install.sh
 
